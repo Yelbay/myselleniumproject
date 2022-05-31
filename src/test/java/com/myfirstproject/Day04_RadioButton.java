@@ -30,7 +30,7 @@ public class Day04_RadioButton {
 //
 //        TEST CASE:
 //        Click on Create new account
-        driver.findElement(By.linkText("Create New Account")).click();
+        driver.findElement(By.linkText("Create new account")).click();
 //        Enter first name
         driver.findElement(By.name("firstname")).sendKeys(faker.name().firstName());
 //        Enter last name
