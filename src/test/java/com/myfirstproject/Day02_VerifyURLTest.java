@@ -34,7 +34,7 @@ FAILED
 ACTUAL : https://www.google.com/
 EXPECTED : www.google.com
 *What do you do when a test case fails?
-* 1.Rerun you test once more time
+* 1.Rerun you test one more time
 * 2.Do manual testing to make sure
 * 3.Contact with Developper
 * 4. Contact with BA

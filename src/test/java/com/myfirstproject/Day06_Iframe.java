@@ -35,5 +35,6 @@ public class Day06_Iframe extends TestBase {
         driver.switchTo().defaultContent();//gets all the way to the root level
         WebElement elementalSelenium = driver.findElement(By.linkText("Elemental Selenium"));
         Assert.assertTrue(elementalSelenium.isDisplayed());
+
     }
 }
